@@ -1,0 +1,1 @@
+export const PROJECT_DATA = 'https://reactmusicplayer-ab9e4.firebaseio.com/project-data.json'

@@ -1,0 +1,1 @@
+import React from 'react'import classes from './Footer.module.css'function Footer() {    return(        <div className={classes.MainContainer}>            ©infiniteGODS™ - All Rights Reserved.        </div>    )}export default Footer

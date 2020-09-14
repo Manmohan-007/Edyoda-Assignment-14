@@ -1,0 +1,1 @@
+import React from "react";export const Dashboard = <i className="fas fa-tachometer-alt"></i>export const Cart = <i className="fas fa-shopping-cart"></i>export const User = <i class="far fa-user"></i>

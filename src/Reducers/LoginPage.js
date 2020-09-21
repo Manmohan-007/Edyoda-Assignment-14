@@ -1,0 +1,1 @@
+const initialState = {    isLogged : true}export const LoginReducer = (state = initialState, action) => {    switch(action.type) {        case 'LOGGING_IN': return {...state, isLogged: !state.isLogged}        default:            return {...state}    }}

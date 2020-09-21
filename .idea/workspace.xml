@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12693e8-f718-44ee-bb6a-2de572abdd11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Pages/AccountPage/AccountsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/AccountPage/AccountsPage.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment 10 - E-Commerce WebApp" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 10 - E-Commerce WebApp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EdYoda-Assignment-13" beforeDir="false" afterPath="$PROJECT_DIR$/../EdYoda-Assignment-13" afterDir="false" />
@@ -10,6 +12,28 @@
       <change beforePath="$PROJECT_DIR$/../Music Player Web App/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Music Player Web App/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Vegan Store" beforeDir="false" afterPath="$PROJECT_DIR$/../Vegan Store" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../assignment_31_aug" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_31_aug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/edyoda-assignment-14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/edyoda-assignment-14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/Icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/Icons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AccountAvatar/AccountAvatar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AccountAvatar/AccountAvatar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AccountAvatar/AccountAvatar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AccountAvatar/AccountAvatar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AccountSettings/AccountSettings.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AccountSettings/AccountSettings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AccountSettings/AccountSettings.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AccountSettings/AccountSettings.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AccountTypes/AccountTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AccountTypes/AccountTypes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/AccountTypes/AccountTypes.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AccountTypes/AccountTypes.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Topbar/Topbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Topbar/Topbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Topbar/Topbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Topbar/Topbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Accounts_Page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Accounts_Page.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test" beforeDir="false" afterPath="$PROJECT_DIR$/../test" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,13 +44,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hVNQChvgKbUTD5qN958iZWxh1V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -50,10 +74,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Pages/Account Page" />
       <recent name="$PROJECT_DIR$/src/Assets/Images" />
       <recent name="$PROJECT_DIR$/src/Components/Topbar" />
     </key>
@@ -81,29 +107,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600092283261</updated>
-      <workItem from="1600092285817" duration="8591000" />
+      <workItem from="1600092285817" duration="8924000" />
+      <workItem from="1600243862216" duration="18457000" />
+      <workItem from="1600315374021" duration="1117000" />
+      <workItem from="1600316628129" duration="26000" />
+      <workItem from="1600316697344" duration="8685000" />
+      <workItem from="1600354968299" duration="32000" />
+      <workItem from="1600494427606" duration="23232000" />
+      <workItem from="1600519272032" duration="11209000" />
+      <workItem from="1600532048611" duration="180000" />
+      <workItem from="1600532352580" duration="5560000" />
+      <workItem from="1600577195248" duration="14686000" />
+      <workItem from="1600593525579" duration="8774000" />
+      <workItem from="1600602646875" duration="49066000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Components/Topbar/Topbar.js</url>
-          <line>20</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/Components/Topbar/Topbar.js</url>
-          <line>12</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="WindowStateProjectService">
+    <state x="251" y="89" key="SettingsEditor" timestamp="1600690568117">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="251" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600690568117" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600532244590">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1600532244590" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1600579371203">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1600579371203" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1600690368403">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1600690368403" />
   </component>
 </project>

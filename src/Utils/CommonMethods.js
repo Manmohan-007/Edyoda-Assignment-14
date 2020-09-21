@@ -1,0 +1,1 @@
+import axios from 'axios'import {PROJECT_DATA} from "./APIEndpoints";export const getAllData = async () => {    let result    await axios.get(PROJECT_DATA)    .then((response) => {        result = response.data    })    return result}

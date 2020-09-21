@@ -1,0 +1,1 @@
+export const ImageType = 'image/png, image/jpg, image/bmp, image/svg, image/webp'

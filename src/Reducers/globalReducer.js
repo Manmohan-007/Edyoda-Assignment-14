@@ -1,0 +1,1 @@
+import { combineReducers } from "redux";import { LoginReducer } from "./LoginPage";import { AllDataReducer} from "./AllData";import { AccountDetails} from "./AccountDetailsReducer";export const globalReducer = combineReducers({    loginPage: LoginReducer,    allData: AllDataReducer,    accountData: AccountDetails})

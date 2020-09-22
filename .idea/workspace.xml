@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12693e8-f718-44ee-bb6a-2de572abdd11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pages/AccountPage/AccountsPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pages/AccountPage/AccountsPage.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment 10 - E-Commerce WebApp" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 10 - E-Commerce WebApp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EdYoda-Assignment-13" beforeDir="false" afterPath="$PROJECT_DIR$/../EdYoda-Assignment-13" afterDir="false" />
@@ -12,28 +10,7 @@
       <change beforePath="$PROJECT_DIR$/../Music Player Web App/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Music Player Web App/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Vegan Store" beforeDir="false" afterPath="$PROJECT_DIR$/../Vegan Store" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../assignment_31_aug" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_31_aug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/edyoda-assignment-14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/edyoda-assignment-14.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/Icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/Icons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/AccountAvatar/AccountAvatar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AccountAvatar/AccountAvatar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/AccountAvatar/AccountAvatar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AccountAvatar/AccountAvatar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/AccountSettings/AccountSettings.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AccountSettings/AccountSettings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/AccountSettings/AccountSettings.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AccountSettings/AccountSettings.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/AccountTypes/AccountTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AccountTypes/AccountTypes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/AccountTypes/AccountTypes.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/AccountTypes/AccountTypes.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Footer/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Topbar/Topbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Topbar/Topbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Topbar/Topbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Topbar/Topbar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/Accounts_Page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/Accounts_Page.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test" beforeDir="false" afterPath="$PROJECT_DIR$/../test" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +96,7 @@
       <workItem from="1600532352580" duration="5560000" />
       <workItem from="1600577195248" duration="14686000" />
       <workItem from="1600593525579" duration="8774000" />
-      <workItem from="1600602646875" duration="49066000" />
+      <workItem from="1600602646875" duration="50327000" />
     </task>
     <servers />
   </component>
